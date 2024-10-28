@@ -18,4 +18,4 @@ ___
 
 
 
-![ralsi](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTWkKQ1-ZI8smt-qEMt3e6zmqyTHcutWmilA&s, 'ralsei')
+![ralsi](https://steamuserimages-a.akamaihd.net/ugc/1008188819385363440/72F2A5623E6030A355EB388FB756FC653A98251C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false, 'ralsei')
