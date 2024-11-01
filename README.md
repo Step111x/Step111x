@@ -3,7 +3,7 @@ ___
 + я изучаю создание телеграм ботов и бэкенд сайтов на Python
 + пока что не работаю
 + мой основной проект находится [здесь](https://github.com/Step111x/bot_full)
-+ кроме програмирования играю в большое количество различных игр и шарю за большое количество фд, от Mouthwashing до благословения небожителей которое я ейчас читаю
++ кроме програмирования играю в большое количество различных игр и шарю за большое количество фд, от Mouthwashing до благословения небожителей которое я сейчас читаю
 
 [![](https://img.shields.io/badge/LeetCode-white?style=flat-square&link=stepmr4%40gmail.com)](https://leetcode.com/u/mr_Step/)
 ![GitHub Org's stars](https://img.shields.io/github/stars/Step111x?style=flat-square)
